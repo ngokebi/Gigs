@@ -15,7 +15,7 @@ Please check the official laravel installation guide for server requirements bef
 
 Clone the repository
 
-    git clone git@github.com:ngokebi/Gigs.git
+    https://github.com/ngokebi/Gigs.git
 
 Switch to the repo folder
 
@@ -44,9 +44,14 @@ Login requirment
     email: gigs@gmail.com
     password: @rch_101!
 
+Login to Mailtrap to follow up on mails sent to Admin https://mailtrap.io
+
+    email: gigstested@gmail.com
+    password: @rch_101!
+
 **TL;DR command list**
 
-    git clone git@github.com:ngokebi/Gigs.git
-    cd laravel-realworld-example-app
+    https://github.com/ngokebi/Gigs.git
+    cd Gigs
     composer install
     cp .env.example .env
