@@ -50,9 +50,3 @@ Login requirment
     cd laravel-realworld-example-app
     composer install
     cp .env.example .env
-
-    
-**Make sure you set the correct database connection information before running the migrations** [Environment variables](#environment-variables)
-
-    php artisan migrate
-    php artisan serve
