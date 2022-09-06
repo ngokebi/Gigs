@@ -39,6 +39,11 @@ Start the local development server
 
 You can now access the server at http://localhost:8000
 
+Login requirment
+
+    email: gigs@gmail.com
+    password: @rch_101!
+
 **TL;DR command list**
 
     git clone git@github.com:ngokebi/Gigs.git
